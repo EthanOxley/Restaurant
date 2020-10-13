@@ -1,0 +1,90 @@
+/*  Start Body CSS */
+body{
+    overflow-x: hidden;
+}
+/*  End Body CSS */
+
+/* Start of Top Nav CSS */
+
+.navbg{
+    background-color: rgb(160, 34, 34) !important;
+}
+
+/* End of Top Nav CSS */
+
+/* Start of Searchbar CSS */
+
+.searchbg{
+    background-color: rgb(243, 194, 129) !important;
+    max-height: 100px !important;
+}
+
+.searchbar{
+    margin-top: 15px;
+}
+
+/* End of Searchbar CSS */
+
+/* Start of Carousel CSS */
+
+.carouselsetup{
+    max-height: 500px !important;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 20%;
+    left: 0%;
+}
+
+.captionbg{
+    background-color: rgba(255, 192, 96, 0.4);
+    color: black;
+}
+
+/* End of Carousel CSS */
+
+/* Start of Pictures CSS */
+
+.col-md-4{
+    margin-top: 15px;
+}
+
+.picturebg{
+    background-color: rgb(235, 201, 158) !important;
+}
+
+div>h2{
+    font-size: 16px;
+}
+
+/* End of Pictures CSS */
+
+/* Start of Reservations CSS */
+
+.reservationbg{
+    background-color: rgb(224, 209, 188) !important;
+}
+
+/* End of Reservations CSS */
+
+/* Start of Footer CSS */
+
+.footerbg{
+    background-color: rgb(48, 47, 47) !important;
+    color: white;
+}
+
+/* End of Footer CSS */
+
+/* Start of About CSS */
+
+.aboutcontainerbg{
+    background-color: rgb(235, 201, 158) !important;
+}
+
+.aboutbg{
+    background-color: white;
+}
+
+/* End of About CSS */
